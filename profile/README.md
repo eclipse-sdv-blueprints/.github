@@ -11,7 +11,7 @@ Eclipse SDV Blueprints project hosts a collection of blueprints. Each blueprint 
 
 | Blueprint  	|  Repository	|   Description	|
 |---	|---	|---	|
-| Fleet Management  	| https://github.com/eclipse-sdv-blueprints/fleet-management[fleet-management] | A close to real-life showcase for truck fleet management where trucks run an SDV software stack so that logistics fleet operators can manage apps, data and services for a diverse set of vehicles.	|
+| Fleet Management  	| [fleet-management](https://github.com/eclipse-sdv-blueprints/fleet-management) | A close to real-life showcase for truck fleet management where trucks run an SDV software stack so that logistics fleet operators can manage apps, data and services for a diverse set of vehicles.	|
 |   	|   	|   	|
 |   	|   	|   	|
 
