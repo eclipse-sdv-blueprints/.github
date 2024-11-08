@@ -1,4 +1,4 @@
-<img src="https://sdv-blueprints.eclipse.dev/logos/eclipsesdvblueprint_dark_transparent.png" alt="Eclipse SDV Blueprints" width="200"/>
+<img src="https://sdv-blueprints.eclipse.dev/logos/eclipsesdvblueprint_transparent.png" alt="Eclipse SDV Blueprints" width="200"/>
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
