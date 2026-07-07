@@ -6,6 +6,10 @@
 
 A collaborative initiative led by Eclipse SDV members to bring the "software defined vehicle" concepts to life. A crucial aspect of each blueprint is to ensure users can easily reproduce it on their own. This requires well-written and highly clear documentation. Users can utilize blueprints as they are, for inspiration or as a foundation to customize and meet their specific needs.
 
+# Eclipse SDV Blueprints Website
+
+[Website for Documantion](https://sdv-blueprints.eclipse.dev/)
+
 ## What are some of the blueprints?
 Eclipse SDV Blueprints project hosts a collection of blueprints. Each blueprint has its own repository.  
 
@@ -14,6 +18,7 @@ Eclipse SDV Blueprints project hosts a collection of blueprints. Each blueprint 
 | Fleet Management  	| [fleet-management](https://github.com/eclipse-sdv-blueprints/fleet-management) | A close to real-life showcase for truck fleet management where trucks run an SDV software stack so that logistics fleet operators can manage apps, data and services for a diverse set of vehicles.	|
 |  Companion Application 	|  [companion-application](https://github.com/eclipse-sdv-blueprints/companion-application)	|  The companion application is an example to showcase how to create a vehicle application which senses and actuates signals in the vehicle for Eclipse Leda with help of Eclipse Velocitas and Eclipse Kuksa . The aim is not to build the best available application possible but to show how one can use the applied technologies to build a companion app for the interaction with a vehicle, e.g., to move a seat. |
 |  Insurance 	|   [insurance](https://github.com/eclipse-sdv-blueprints/insurance)	|  A showcase for integrating Eclipse Software Defined Vehicle (SDV) and Eclipse Dataspaces for insurance applications. Enable exchange of vehicle and risk events to support risk assessment, underwriting processes and customer experiences 	|
+|  E2E-vehicle-signals 	|   [E2E-vehicle-signals](https://github.com/eclipse-sdv-blueprints/e2e-vehicle-signals)	|  An end-to-end Vehicle E/E Architecture demo that combines the Fleet Management use case with an in-vehicle MotorBike Blinker use case. All signal names are aligned to the COVESA Vehicle Signal Specification (VSS), with Kuksa Databroker running as an Eclipse Ankaios workload	|
 
 
 
