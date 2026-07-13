@@ -8,7 +8,7 @@ A collaborative initiative led by Eclipse SDV members to bring the "software def
 
 # Eclipse SDV Blueprints Website
 
-[Website for Documantion](https://sdv-blueprints.eclipse.dev/)
+[Visit our Website for Documentation](https://sdv-blueprints.eclipse.dev/)
 
 ## What are some of the blueprints?
 Eclipse SDV Blueprints project hosts a collection of blueprints. Each blueprint has its own repository.  
